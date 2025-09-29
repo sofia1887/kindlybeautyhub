@@ -820,12 +820,12 @@ body {
 
     .hero-text {
         order: 2;
-        margin-top: 2rem;
+        margin-top: 3rem;
     }
 
     .hero-image {
         order: 1;
-        margin-bottom: 0;
+        margin-bottom: 2rem;
         display: flex;
         justify-content: center;
     }
@@ -916,7 +916,7 @@ body {
 
     .hero-description {
         font-size: 1rem;
-        margin-bottom: 1.5rem;
+        margin-bottom: 2rem;
         line-height: 1.5;
         max-width: 95%;
     }
@@ -963,7 +963,7 @@ body {
 
     .hero-description {
         font-size: 0.9rem;
-        margin-bottom: 1.2rem;
+        margin-bottom: 1.8rem;
     }
 
     .hero-photo {
